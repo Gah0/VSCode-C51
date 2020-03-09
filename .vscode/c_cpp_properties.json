@@ -1,10 +1,10 @@
 {
     "configurations": [{
         "name": "Keil",
-        "compilerPath": "${workspaceFolder}\\.vscode\\compile.bat",
+        "compilerPath": "C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\.vscode\\compile.bat",
         "includePath": [
             "${workspaceFolder}/**",
-            "‪D:/Program Files/Keil5/C51/INC/**"
+            "‪D:/keilc51/C51/INC/**"
         ],
         "defines": [
             "_DEBUG",
@@ -25,9 +25,9 @@
         ],
         "cStandard": "c99",
         "compilerArgs": [
-            "\"${workspaceFolder}\"",
-            "\"${workspaceFolder}\\src\"",
-            "\"${workspaceFolder}\\environment\"",
+            "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\\"",
+            "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\src\"",
+            "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\environment\"",
             "main"
         ]
     }],

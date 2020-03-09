@@ -6,11 +6,11 @@
         {
             "label": "compile",
             "type": "shell",
-            "command": "${workspaceFolder}\\.vscode\\compile.bat",
+            "command": "C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\.vscode\\compile.bat",
             "args": [
-                "\"${workspaceFolder}\"",
-                "\"${workspaceFolder}\\src\"",
-                "\"${workspaceFolder}\\environment\"",
+                "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\"",
+                "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\src\"",
+                "\"C:\\Users\\Gah0\\Documents\\VSCode-C51-master\\environment\"",
                 "main"
             ],
             "group": {
